@@ -2,5 +2,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>in.ashokit.security</groupId>
   <artifactId>password-utils</artifactId>
-  <version>RELEASE-2.1</version>
+  <version>RELEASE-3.1</version>
 </project>
